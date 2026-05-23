@@ -1,0 +1,11 @@
+Project2: Credit Rish Analyzer
+Learning Type: Supervised Learning
+
+Sub-CategoryL Classification
+
+Algorithm Used: Logistic Regression
+(Logistic regression is a supervised machine learning algorithm used for classification problems.
+Don't confuse because there is regression in name, it's still a classification!!
+)
+
+Goal: TO predict a discrete category or label (e.g., "Safe" or "Ricky").
